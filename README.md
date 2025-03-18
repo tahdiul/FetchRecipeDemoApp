@@ -4,6 +4,10 @@
     A Picker on the header of the list can be used to select and show empty state and error state UIs.
     The list can also be sorted alphabetically or categorically 
 
+
+https://github.com/user-attachments/assets/63947f9f-90eb-4a51-b2b3-1213ebb2402d
+
+
 ### Focus Areas: 
     I focused mainly on the functionality (showing the error and empty states easily) and the image caching feature. 
 
